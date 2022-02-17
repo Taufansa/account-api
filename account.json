@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "620dc41c667c6258de171105"
+  },
+  "username": "taufan",
+  "fullname": "Taufan Samudra Akbar",
+  "address": "Jakarta",
+  "_class": "com.account.svc.model.entity.Account"
+},{
+  "_id": {
+    "$oid": "620dc59ba1a8552545dee8b7"
+  },
+  "username": "taufansa",
+  "fullname": "Taufan Samudra",
+  "address": "Depok",
+  "_class": "com.account.svc.model.entity.Account"
+}]
